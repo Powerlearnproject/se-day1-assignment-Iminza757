@@ -26,7 +26,9 @@ List and briefly explain the phases of the Software Development Life Cycle.
 6. Maintenance - Providing ongoing support to the software after deployment
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Waterfall methodologies follows a sequential approach with distinct phases. Suitable when dealing with projects whose requirements are stable
+
 Agile methodologies stresses an iterative and incremental approach focused on flexibility and is suitable for projects whose requirements may evolve over time
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
@@ -49,16 +51,20 @@ PROJECT MANAGER
 4. Handling change requests 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 IDES - Provides comprehensive tools for writing, debugging and testing codes. Examples include Eclipse and Visual studio
+ 
  VCS - Provides software tools for tracking changes to source code and coordinating work amog them examples are Git and Subversion
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 CHALLENGES
 1. Tight deadlines - Pressure to deliver software products on schedule
 2. Changing requirements during the development stage
 3. Security vulnerabilities
 4. Keeping up with rapid technological changes
 5. Identifying and fixing bugs
+
 STRATEGIES TO OVERCOME
 1. Use tools to prioritize projects and track progress
 2. Use agile methodologies to adapt to changes quickly
