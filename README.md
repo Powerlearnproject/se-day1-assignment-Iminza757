@@ -9,7 +9,7 @@ Software engineering is the process of modelling a software its importance is
 1. Enabling the creation of software applications
 2. Drives innovations
 3. Complements other technological innovations
-4. A career subject
+4. A career subject.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 1. Development of programming languages
