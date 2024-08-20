@@ -30,15 +30,18 @@ Waterfall methodologies follows a sequential approach with distinct phases. Suit
 Agile methodologies stresses an iterative and incremental approach focused on flexibility and is suitable for projects whose requirements may evolve over time
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 SOFTWARE DEVELOPER
 1. Code writing
 2. Designing the overall structure of the software system
 3. Identifying bugs and verifying fixes
 4. Updating the software
+
 QUALITY ASSURANCE
 1. Designing and executing test plans
 2. Performing exploratory testing to find issues missed by automation systems
 3. Designing risks scenarios
+
 PROJECT MANAGER
 1. Develop the project plan
 2. Conducting regular team meetings, assigning tasks and resolving conflicts
